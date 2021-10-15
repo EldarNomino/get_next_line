@@ -1,2 +1,5 @@
 # get_next_line
-This is my get_next_line project from the 21 cursus
+Get Next Line (GNL) 🚜
+The aim of this project is to make my code a function, that returns a line ending with a newline, read from a file descriptor.
+
+This project allow me to learn a interesting new concept in C programming: "static variables".
